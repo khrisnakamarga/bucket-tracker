@@ -1,0 +1,10 @@
+# ignores tables
+*.mat
+
+# ignores images
+*.jpg
+*.png
+
+# ignores word document
+*.doc
+*.docx
